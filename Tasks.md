@@ -14,6 +14,7 @@ Items that cannot be written until peer responses are received after Sunday at 1
 
 Preparing for Poster (1 person for all 3 tasks, DUE Tuesday at 11:59 PM)
 ==================
+- Assigned to Bonghyun Kim
 * Finding visuals to put on the posterboard
 * Purchasing the posterboard
 * Delivering the posterboard to location of posterboard makers

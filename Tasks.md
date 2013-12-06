@@ -5,11 +5,13 @@ Items that can be written immediately (2 people, DUE Monday at 11:59 PM)
 
 Items that can be started, but open to change after peer responses which won't be received til Sunday at 11:59 PM (2 people each, DUE Monday at 11:59 PM)
 ==================
+- Assigned to Yee Tung (Alice) Man
 * Background on what’s going on right now in science:
 * What tools do we use:
 
 Items that cannot be written until peer responses are received after Sunday at 11:59 PM (2 people, DUE Tuesday at 9:30 AM)
 ==================
+- Assigned to Yee Tung (Alice) Man
 * Experience in the class regarding reproducibility:
 
 

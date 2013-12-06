@@ -23,6 +23,7 @@ Making the Posterboard (2-4 people for entire posterboard, DUE Thursday at 11 AM
 * Print all written pieces and visuals to paste onto board
 * Purchase any extra materials (ie- construction paper?)
 * Put board together
+* People: Alyssa, 
 
 Presenting at the Data Science Fair (whoever can make it)
 ==================

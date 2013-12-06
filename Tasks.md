@@ -12,7 +12,7 @@ Items that cannot be written until peer responses are received after Sunday at 1
 * Experience in the class regarding reproducibility
 
 
-Preparing for Poster (1 person, DUE Tuesday at 11:59 PM)
+Preparing for Poster (1 person for all 3 tasks, DUE Tuesday at 11:59 PM)
 ==================
 * Finding visuals to put on the posterboard
 * Purchasing the posterboard

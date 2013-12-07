@@ -7,7 +7,7 @@ Items that can be started, but open to change after peer responses which won't b
 ==================
 - Assigned to Yee Tung (Alice) Man
 * Background on what’s going on right now in science:
-* What tools do we use:
+* What tools do we use: Analyzer Subgroup 2 (@j-zhang, @teresita, @kqdtran)
 
 Items that cannot be written until peer responses are received after Sunday at 11:59 PM (2 people: Yee Tung (Alice) Man, DUE Tuesday at 9:30 AM)
 ==================

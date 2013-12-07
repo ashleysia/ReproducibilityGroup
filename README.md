@@ -10,7 +10,7 @@ Covered material:
 * What tools do we use 
 
 The Final Deliverable:
-* Almost everything should fit onto a 24x12 posterboard
+* Almost everything should fit onto a 24inx12in space of posterboard, which will be formatted in Adobe Illustrator
 * Parts will be cut from the posterboard
 * Parts will be pasted onto a tri-fold posterboard
 * Final product: tri-fold posterboard

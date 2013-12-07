@@ -23,9 +23,9 @@ Making the Posterboard (DUE Thursday at 11 AM)
 * Print all written pieces and visuals to paste onto board
 * Purchase any extra materials (ie- construction paper?)
 * Put board together
-* People: Alyssa, Joy, Tay, Yee Tung(Alice) Man, Yoojin (does not have laptop so will do any cutting/pasting that needs to be done)
+* People: Alyssa, Joy, Tay, Yee Tung(Alice) Man, Yoojin (does not have laptop so will do any cutting/pasting that needs to be done), Ashley
 
 Presenting at the Data Science Fair (whoever can make it)
 ==================
-* 1-2 PM: Yee Tung (Alice) Man
-* 2-3 PM:
+* 1-2 PM: Yee Tung (Alice) Man, Ashley
+* 2-3 PM: Ashley

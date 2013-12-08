@@ -27,5 +27,5 @@ Making the Posterboard (DUE Thursday at 11 AM)
 
 Presenting at the Data Science Fair (whoever can make it)
 ==================
-* 1-2 PM: Yee Tung (Alice) Man, Ashley
-* 2-3 PM: Ashley
+* 1-2 PM: Yee Tung (Alice) Man, Ashley, Alyssa
+* 2-3 PM: Ashley, Alyssa

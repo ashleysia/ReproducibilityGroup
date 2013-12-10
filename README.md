@@ -10,7 +10,7 @@ Covered material: https://github.com/amx01/Reproducibility-Poster_ILLUSTRATIONS
 * What tools do we use 
 
 The Final Deliverable:
-* Almost everything should fit onto a 24inx12in space of posterboard, which will be formatted in Adobe Illustrator
-* Parts will be cut from the posterboard
-* Parts will be pasted onto a tri-fold posterboard
+* We will combine the collaboration (class management) and reproducibility posters into one
+* Collaboration on the left side, reproducibility on the right side, combination of the two in the middle
 * Final product: tri-fold posterboard
+* We are meeting at 9 PM at I-House to work on the poster. If you can make it, awesome! If you can't, we'll take care of it :)
